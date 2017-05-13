@@ -59,7 +59,7 @@ In our evaluation, we use the proxy app to successfully prevent ICC vulnerabilit
 
 The right screen shows an implicit intent is re-constructed and re-invoked. The candidate receiver components are consistent with components from the original app. 
 
-<img src="https://github.com/dummyForSubmission/AppCustomization/blob/master/Taintflow/screen1.png" height="500" width="300"><img src="https://github.com/dummyForSubmission/AppCustomization/blob/master/Taintflow/screen.png" height="500" width="300">
+<img src="https://github.com/ririhedou/AndroidRewritingTool/blob/master/SampleApps/Taintflow/screen1.png" height="500" width="300"><img src="https://github.com/ririhedou/AndroidRewritingTool/blob/master/SampleApps/Taintflow/screen.png" height="500" width="300">
 
 
 ### Logging for Dynamic Monitoring
